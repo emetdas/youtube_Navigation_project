@@ -1,0 +1,14 @@
+```
+font-family
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+font-family: 'Poppins', sans-serif;
+
+variable
+
+  --nav: 6rem;
+  --black: hsl(251, 67%, 5%);
+  --white: hsl(0, 0%, 100%);
+  --primary: hsl(249, 73%, 58%);
+  --transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+```
