@@ -8,15 +8,10 @@
 
 ![website-mobile](NO_USE/Navigation-mobile.png)
 
-## HTML5
-![html](NO_USE/html.png)
-## CSS3
-![Css](NO_USE/css.png)
-## JAVASCRIPT
-![Javscript](NO_USE/javascript.png)
-
+[watch on youtube](https://youtu.be/bQR_iOy92Qw)
 ----------
-# Coding
+
+# Code snippets
 **HTML5**
 ```Html5
 <!DOCTYPE html>
